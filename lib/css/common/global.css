@@ -81,7 +81,6 @@ img {
   width: 100%;
 }
 
-// quick fix, need to move it to its own file
 .a-propos .md__image {
   width: 100%;
   margin: var(--space-m) auto;
